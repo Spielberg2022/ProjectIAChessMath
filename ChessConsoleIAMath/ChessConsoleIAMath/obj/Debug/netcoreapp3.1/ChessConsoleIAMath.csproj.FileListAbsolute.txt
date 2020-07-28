@@ -1,0 +1,13 @@
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\bin\Debug\netcoreapp3.1\ChessConsoleIAMath.exe
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\bin\Debug\netcoreapp3.1\ChessConsoleIAMath.deps.json
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\bin\Debug\netcoreapp3.1\ChessConsoleIAMath.runtimeconfig.json
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\bin\Debug\netcoreapp3.1\ChessConsoleIAMath.runtimeconfig.dev.json
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\bin\Debug\netcoreapp3.1\ChessConsoleIAMath.dll
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\bin\Debug\netcoreapp3.1\ChessConsoleIAMath.pdb
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\obj\Debug\netcoreapp3.1\ChessConsoleIAMath.AssemblyInfoInputs.cache
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\obj\Debug\netcoreapp3.1\ChessConsoleIAMath.AssemblyInfo.cs
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\obj\Debug\netcoreapp3.1\ChessConsoleIAMath.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\obj\Debug\netcoreapp3.1\ChessConsoleIAMath.dll
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\obj\Debug\netcoreapp3.1\ChessConsoleIAMath.pdb
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\obj\Debug\netcoreapp3.1\ChessConsoleIAMath.genruntimeconfig.cache
+C:\Users\wesle\OneDrive\Documentos\Trabalho IA do Jogo de Xadrez\ProjectIAChessMath\ChessConsoleIAMath\ChessConsoleIAMath\obj\Debug\netcoreapp3.1\ChessConsoleIAMath.csprojAssemblyReference.cache
