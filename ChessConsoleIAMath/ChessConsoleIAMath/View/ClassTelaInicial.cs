@@ -14,10 +14,8 @@ namespace ChessConsoleIAMath.View
             Origem, Destino,
             Peca,
             Cor,
-            B1 = "-", B2 = "-", B3 = "-", B4 = "-", B5 = "-", B6 = "-", B7 = "-", B8 = "-", B9 = "-", B10 = "-",//Substituir por vetores 
-            B11 = "-", B12 = "-", B13 = "-", B14 = "-", B15 = "-",
-            P1 = "-", P2 = "-", P3 = "-", P4 = "-", P5 = "-", P6 = "-", P7 = "-", P8 = "-", P9 = "-", P10 = "-",//Substituir por vetores
-            P11 = "-", P12 = "-", P13 = "-", P14 = "-", P15 = "-";
+            B1, B2, B3, B4, B5, B6, B7, B8, B9, B10, B11, B12, B13, B14, B15, 
+            P1, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, P14, P15;
 
         public int Jogo,
             Turno,
